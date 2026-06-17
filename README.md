@@ -31,4 +31,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Made with ❤️ and by the Xhorizon Team
 
 
-This project is Free to Use. If you like it, feel free to give it a ⭐!
+This project is Free to Use. If you like it, feel free to give it a ***⭐***!
